@@ -59,6 +59,7 @@ input{
     background-color: rgb(27, 27, 75);
     border: none;
     border-bottom: 2px solid rgb(70, 69, 69);
+    outline: none;
 }
 
 .bottom{
