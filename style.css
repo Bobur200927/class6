@@ -60,6 +60,7 @@ input{
     border: none;
     border-bottom: 2px solid rgb(70, 69, 69);
     outline: none;
+    color: #adadad;
 }
 
 .bottom{
