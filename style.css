@@ -51,7 +51,7 @@ body{
 
 .top{
     display: flex;
-    flex-direction: column;
+    flex-direction: column ;
     gap: 30px;
 }
 
